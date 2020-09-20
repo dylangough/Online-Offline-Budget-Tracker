@@ -14,9 +14,6 @@ The user will be able to add expenses and deposits to their budget with or witho
 * npm install
 * Heroku
 
-<p align ="center"><img src="" style ="height: 800px"></p>
-<P align ="center"><img src="" style ="height: 500px"></p>
-
 
 <h3 align="right"><a href="https://github.com/dylangough/Online-Offline-Budget-Tracker">Github Link</a></h3>
 <h3 align="right"><a href="https://desolate-shore-61717.herokuapp.com/">Heroku Link</a></h3>
